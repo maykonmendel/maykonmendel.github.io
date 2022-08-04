@@ -1,6 +1,6 @@
 # Projeto MyLinks
 
-![MyLinks](https://imgur.com/99VubAG)
+<img src="[/docs/logo.png](https://imgur.com/99VubAG)" alt="MyLinks Figma Layout"/>
 
 ## Tecnologias e práticas utilizadas
 - HTML
