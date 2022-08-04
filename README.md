@@ -1,6 +1,6 @@
 # Projeto MyLinks
 
-![MyLinks](https://imgur.com/a/BjXWzN7)
+![MyLinks](https://imgur.com/99VubAG)
 
 ## Tecnologias e práticas utilizadas
 - HTML
