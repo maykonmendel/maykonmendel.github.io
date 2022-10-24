@@ -14,16 +14,10 @@ a {
   
 html {
     /*variáveis*/   
-    --primary-color: #665FA7;    
-    --primary-hover: #857CB9;
+    --primary-color: #7c3aed;    
+    --primary-hover: #8b5cf6;
     --text-color: #f4f4f5;
-    --background: #18181B;
-    --youtube: rgb(239 68 68);
-    --instagram: rgb(236 72 153);
-    --twitter: rgb(37 99 235);
-    --github: rgb(55 65 81);
-    --linkedin: rgb(10 102 194);
-    --twitch: rgb(119 44 232);    
+    --background: #18181B;    
 }
 
 body {
@@ -94,9 +88,13 @@ ul li a {
   
     transition: background 400ms;
 }
+
+ul a:hover {
+    background: var(--primary-hover);
+}
   
 /* pseudo-class */
-ul #youtube a:hover {
+/* ul #youtube a:hover {
     background: var(--youtube);
 }
 
@@ -122,7 +120,7 @@ ul #twitch a:hover {
 
 ul #contato a:hover {
     background: var(--primary-hover);
-}
+} */
 
 .button-logo {
     width: 32px;    
